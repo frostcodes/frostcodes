@@ -4,31 +4,15 @@
 ### Hi there 👋
 
 <h1 align="center">I'm Sam</h1>  
-<h3 align="center">A passionate full-stack developer</h3>  
-
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+<h3 align="center">A passionate full-stack developer</h3>   
 
 # 💫 About Me:
 I am a Web Developer, Database Administrator, Android & IOS App Developer, Cross-platform and Native Desktop App Developer, Cloud & Systems Engineer.
 
 
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-
+ 
+- 🔭 I’m currently working on [Examina](https://play.google.com/store/apps/details?id=com.punchlinetech.examina) and [Pindodo](https://chrome.google.com/webstore/detail/pinterest-rankingkeyword/mkpmadpjiphhpondccmkndccfjknbjdi).
+- 🌱 I’m currently learning **Game Developement**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/seyi-aderinkomi-923b75145/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/iamfrostcodes) 
