@@ -44,7 +44,7 @@ I am a Web Developer, Database Administrator, Android & IOS App Developer, Cross
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=frostcodes&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-  ## 💰 You can help me by Donating
+  ## 💰 You can support me by donating
   [![Paystack](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Paystack_Logo.png/320px-Paystack_Logo.png)](https://paystack.com/pay/rbhzwdgozj) 
   <br>
   **LINK**: https://paystack.com/pay/rbhzwdgozj
