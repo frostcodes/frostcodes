@@ -1,4 +1,4 @@
-# Hi there, I'm Sam! 👋
+# Hi there, I'm Sam (Seyi)! 👋
 
 ### 🚀 Senior Systems Architect & Full-Stack Engineer
 With over 10 years of enterprise and SaaS development experience, I build robust, highly available, and scalable applications from scratch while specializing in transforming complex legacy systems into modern architectures.
